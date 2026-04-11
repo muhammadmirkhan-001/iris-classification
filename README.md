@@ -29,4 +29,4 @@ A machine learning model that classifies Iris flowers into three species (Setosa
 * Seaborn
 
 ### Author
-**Syed Fazeel Ahmed** — Data Science Intern at CodeAlpha
+**Muhammad Mir Khan** — Data Science Intern at CodeAlpha
